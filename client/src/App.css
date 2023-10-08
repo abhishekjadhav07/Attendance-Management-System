@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.mainContent {
+  border: solid #ccc 3px;
+  margin-left: 12.5rem;
+}
+
+/* M  E  D  I  A     Q  U  R  I  E  S */
+@media (max-width: 770px) {
+  .mainContent {
+    border: solid #ccc 3px;
+    margin: 10px;
+  }
+}
