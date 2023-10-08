@@ -3,7 +3,7 @@
 **Client:**
 
    1. React
-   2. Redux T
+   2. Redux 
    3. Axios
    4. ChakraUi
 
