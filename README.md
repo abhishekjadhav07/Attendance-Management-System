@@ -11,5 +11,6 @@
 
    1. Node Js
    2. Mongo DB
-   3. Express Js
-   4. JWT
+   3. Mongoose
+   4. Express Js
+   5. JWT
